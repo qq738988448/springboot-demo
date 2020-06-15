@@ -1,0 +1,23 @@
+ziyitong-settlement-web/target/
+ziyitong-settlement-commons/target/
+Ziyitong-settlement-restful/target/
+Ziyitong-quickpayment-web/target/
+ziyitong-settlement-callback/target/
+ziyitong-quickpayment-dao/target/
+ziyitong-settlement-scheduler/target/
+*.classpath
+*.class
+*.project
+ziyitong-settlement-web/.settings/
+ziyitong-settlement-commons/.settings/
+Ziyitong-settlement-restful/.settings/
+Ziyitong-settlement-callback/.settings/
+Ziyitong-quickpayment-dao/.settings/
+<<<<<<< HEAD
+ziyitong-settlement-scheduler/.settings/
+=======
+Ziyitong-settlement-scheduler/.settings/
+>>>>>>> 70eedc1c0bf67dab8adc0d2b25f74ec16e1e19fb
+.settings/
+.idea
+*.iml
