@@ -14,7 +14,7 @@ public class DemoController {
     @GetMapping("getIp")
     public String test() {
         try {
-            return InetAddress.getLocalHost().getHostAddress();
+            return "new:" + InetAddress.getLocalHost().getHostAddress();
         } catch (UnknownHostException e) {
             return "error";
         }
