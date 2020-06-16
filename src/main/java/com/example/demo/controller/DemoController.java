@@ -8,7 +8,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 @RestController
-@RequestMapping
+@RequestMapping("demo")
 public class DemoController {
 
     @GetMapping("getIp")
